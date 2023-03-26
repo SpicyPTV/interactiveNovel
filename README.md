@@ -1,2 +1,2 @@
-# interactiveNovel
-A short interactive novel
+#  interactiveNovel
+### Developed by Pieter Edwards
